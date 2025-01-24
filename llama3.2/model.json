@@ -1,0 +1,17 @@
+{
+    "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+    "model": "llama3.2:latest",
+    "name": "llama3.2:latest",
+    "size": 2019393189,
+    "modified_at": "2025-01-22T20:31:57+00:00",
+    "details": {
+        "family": "llama",
+        "format": "gguf",
+        "parameter_size": "3.2B",
+        "parent_model": "",
+        "quantization_level": "Q4_K_M",
+        "families": [
+            "llama"
+        ]
+    }
+}
